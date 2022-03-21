@@ -1,4 +1,4 @@
-name: Welcome first time contributor inception master disaster
+name: Welcome first time contributor
 on:
   pull_request_target:
     types: 
